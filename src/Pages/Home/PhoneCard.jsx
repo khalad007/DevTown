@@ -21,6 +21,7 @@ const PhoneCard = ({ phone }) => {
                 <p className="text-sm mt-2"><span className="font-bold">Type :</span> {type}</p>
                 <p className="text-sm mt-2"><span className="font-bold">OS :</span> {OS}</p>
                 <p className="text-sm mt-2"><span className="font-bold">Processor  :</span> {processor}</p>
+                <p className="text-sm mt-2"><span className="font-bold">Memory :</span> {memory}</p>
                 
             </div>
 

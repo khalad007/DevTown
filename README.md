@@ -1,8 +1,22 @@
-# React + Vite
+# DevTown Phone Shop
+# Welcome to the mShop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- [Live Link - 1](https://devtown-726d8.firebaseapp.com/) 
 
-Currently, two official plugins are available:
+- [Live Link - 2](https://devtown-726d8.web.app/) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Live Link - 3](https://65872d85caaaa7b191ca9082--cheerful-faloodeh-f1d3ec.netlify.app/) 
+
+
+
+# Run This Project on your Device
+
+- git clone 
+- cd 'the project file name'
+- npm install
+
+<h1>Then a local Host link will show up. then ctrl + mouse left key</h1>
+
+
+<h1>This is developed by MERN.      and TailwindCSS , DaisyUI, react router dom, firebase for hosting any many small tools like AOS,react icon etc </h1>
+

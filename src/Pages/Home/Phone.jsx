@@ -8,7 +8,7 @@ const Phone = () => {
     const [phones, setPhones] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:5000/phone')
+        fetch('https://phone-server-gilt.vercel.app/phone')
         .then(res => res.json())
         .then(data => setPhones(data))
     })

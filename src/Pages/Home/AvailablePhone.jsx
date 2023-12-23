@@ -11,7 +11,7 @@ const AvailablePhone = () => {
     useEffect(() => {
         setLoading(true); // Set loading to true when starting the fetch
 
-        fetch("http://localhost:5000/allphone")
+        fetch("https://phone-server-gilt.vercel.app/allphone")
             .then((res) => res.json())
             .then((data) => {
                 setPhones(data);
